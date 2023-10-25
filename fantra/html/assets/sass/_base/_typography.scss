@@ -1,0 +1,93 @@
+
+/* ==========================================================================
+   Typography CSS Starts Hear
+   ========================================================================== */
+body {
+    padding: 0;
+    margin: 0;
+    font-size: 18px;
+    line-height: 28px;
+    color: $theme-color;
+    overflow-x: hidden;
+    font-family: 'Comfortaa', cursive;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: $theme-color;
+    font-family: 'Ubuntu', sans-serif;
+    a {
+        color: $theme-color;
+        &:hover {
+            color: $theme-color;
+        }
+    }
+}
+
+a {
+    display: inline-block;
+    @include transition($transition);
+    &:hover {
+        text-decoration: none;
+        color: inherit;
+    }
+}
+ul {
+    margin: 0;
+    padding: 0;
+    li {
+        list-style: none;
+        padding: 5px 0;
+    }
+}
+
+select,
+input,
+textarea,
+button {
+    width: 100%;
+    background-color: $white-color;
+    border: 1px solid $border-color;
+    outline: none;
+    @include border-radius(4px);
+}
+textarea {
+    height: 200px;
+    resize: none;
+    padding: 10px;
+}
+input,
+button,
+select {
+    height: 50px;
+    color: $body-color;
+}
+label,
+button,
+select {
+    cursor: pointer;
+}
+input {
+    background: transparent;
+    border: 1px solid $border-color;
+    padding-left: 10px;
+    &:focus {
+        border: 1px solid $theme-color;
+    }
+    &[type="submit"] {
+        cursor: pointer;
+        background-color: $primary-color;
+        color: $white-color;
+        font-weight: 700;
+        padding: 0;
+    }
+}
+.bg_img {
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}

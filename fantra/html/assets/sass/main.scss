@@ -1,0 +1,51 @@
+/*
+  Theme Name:  Bittery - Online Lotto & Lottery HTML Template
+  Version: 1.0
+*/
+
+/*
+************************************
+============= CSS Index ============
+************************************
+
+# Web front link
+# Reset CSS Starts Hear
+# Global CSS Starts Hear
+# Typography CSS Starts Hear
+# Banner-Section Starts Here
+# Draw-Section Starts Here
+# Features-Section Starts Here
+# Lottery-Result-Section Starts Here
+# Check-Number-Section Starts Here
+# Contact-Section Starts Here
+# Blog-Page
+# Leave-Comment Starts
+# About-counter Section Start
+# About-info Section Start
+# Testimonial Section Start
+# Singlelottery Section Start
+# Contact Section Start
+# faq Section Start
+# Results Section Start
+# Login & Registration  Section
+# Footer-Section Starts Here
+
+----
+----
+*/
+
+
+
+@import '_abstracts/_variables';
+@import '_abstracts/_mixins';
+@import '_base/_reset';
+@import '_base/_global';
+@import '_base/_typography';
+@import '_components/_buttons';
+@import '_layout/_header';
+@import '_layout/_banner';
+@import '_layout/_section';
+@import '_layout/_blog';
+@import '_layout/_inner-pages';
+@import '_layout/_log-reg';
+@import '_layout/_footer';
