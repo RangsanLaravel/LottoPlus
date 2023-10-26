@@ -1,0 +1,58 @@
+﻿@{
+    ViewBag.Title = "ลงทะเบียน";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!-- Register Area -->
+<div class="log-reg-inner">
+    <h2 class="title">
+        Create an Account
+    </h2>
+    <div class="main-content">
+        <form action="#">
+            <div class="form-group">
+                <label>Your Email</label>
+                <input type="email" class="my-form-control" placeholder="Enter Your Email">
+            </div>
+            <div class="form-group">
+                <label>Password</label>
+                <input type="text" class="my-form-control" placeholder="Enter Your Password">
+            </div>
+            <div class="form-group">
+                <label>Confirm Password</label>
+                <input type="text" class="my-form-control"
+                       placeholder="Enter Your Confirm Password">
+            </div>
+            <div class="custom-control custom-checkbox">
+                <input type="checkbox" class="custom-control-input" id="customCheck1">
+                <label class="custom-control-label" for="customCheck1">
+                    I agree to the <a href="#">Terms, Privacy Policy and Fees</a>
+                </label>
+            </div>
+            <div class="button-wrapper">
+                <button type="submit" class="custom-button2">Register Now</button>
+                <p class="or-signup">
+                    Already have an account? <a href="#" data-toggle="modal"
+                                                data-target="#loginModal">
+                        Login
+                    </a>
+                </p>
+            </div>
+            <div class="or">
+                <p>OR</p>
+            </div>
+            <div class="socials">
+                <a href="#">
+                    <i class="fab fa-facebook-f"></i>
+                </a>
+                <a href="#">
+                    <i class="fab fa-twitter"></i>
+                </a>
+                <a href="#">
+                    <i class="fab fa-google"></i>
+                </a>
+            </div>
+        </form>
+    </div>
+</div>
+
+<!-- Register Area -->
