@@ -108,11 +108,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rangsan.chi\\source\\repos\\LottoPlus\\LottoPlus\\LottoPlus.csproj",
+      "projectUniqueName": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\LottoPlus.csproj",
       "projectName": "LottoPlus",
-      "projectPath": "C:\\Users\\rangsan.chi\\source\\repos\\LottoPlus\\LottoPlus\\LottoPlus.csproj",
+      "projectPath": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\LottoPlus.csproj",
       "packagesPath": "C:\\Users\\rangsan.chi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rangsan.chi\\source\\repos\\LottoPlus\\LottoPlus\\obj\\",
+      "outputPath": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",

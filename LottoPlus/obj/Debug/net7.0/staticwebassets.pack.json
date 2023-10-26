@@ -1,0 +1,537 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\LottoPlus.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LottoPlus.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\all.min.css"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\css\\bootstrap-popover-x.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-popover-x.min.css"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\assets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\fonts\\lightcase.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\lightcase.eot"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\fonts\\lightcase.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\lightcase.svg"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\fonts\\lightcase.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\lightcase.ttf"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\fonts\\lightcase.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\lightcase.woff"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\404.png",
+      "PackagePath": "staticwebassets\\assets\\images\\404.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\about-counter-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about-counter-bg.jpg"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\about-left.png",
+      "PackagePath": "staticwebassets\\assets\\images\\about-left.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\ac1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ac1.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\ac2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ac2.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\ac3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ac3.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\af1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\af1.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\af2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\af2.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\af3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\af3.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\af4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\af4.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\app_store_btn.png",
+      "PackagePath": "staticwebassets\\assets\\images\\app_store_btn.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\bc-dark.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bc-dark.jpg"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\blog-avatar.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-avatar.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\blog-details.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-details.jpg"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\blog1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog1.jpg"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\blog2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog2.jpg"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\blog3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog3.jpg"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\blog4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog4.jpg"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\breadcrumb.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\breadcrumb.jpg"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\bt1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\bt1.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\bt2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\bt2.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\bt3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\bt3.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\c-image.png",
+      "PackagePath": "staticwebassets\\assets\\images\\c-image.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\cart.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cart.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\check-num-left.png",
+      "PackagePath": "staticwebassets\\assets\\images\\check-num-left.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\check-num-right.png",
+      "PackagePath": "staticwebassets\\assets\\images\\check-num-right.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\clock.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clock.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\comment-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\comment-1.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\comment-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\comment-2.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\comment-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\comment-3.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\contact-b-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-b-icon.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\d1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\d1.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\d2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\d2.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\d3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\d3.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\d4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\d4.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\eicom.png",
+      "PackagePath": "staticwebassets\\assets\\images\\eicom.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\f1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\f1.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\f2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\f2.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\f3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\f3.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\f4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\f4.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\faq-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\faq-bg.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\footer-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\footer-bg.jpg"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\google.png",
+      "PackagePath": "staticwebassets\\assets\\images\\google.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\goole_play_btn.png",
+      "PackagePath": "staticwebassets\\assets\\images\\goole_play_btn.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\hero-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-bg.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\log.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\log.jpg"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\logo2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo2.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\lottery-b-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\lottery-b-icon.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\map.png",
+      "PackagePath": "staticwebassets\\assets\\images\\map.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\overlaymask.png",
+      "PackagePath": "staticwebassets\\assets\\images\\overlaymask.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\overlaymask1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\overlaymask1.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\overlaymask2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\overlaymask2.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\overlaymask3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\overlaymask3.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\picon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\picon.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\post-by.png",
+      "PackagePath": "staticwebassets\\assets\\images\\post-by.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\profile-box-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\profile-box-bg.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\quotation.png",
+      "PackagePath": "staticwebassets\\assets\\images\\quotation.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\reg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\reg.jpg"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\result-background.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\result-background.jpg"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\result-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\result-bg.jpg"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\result.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\result.jpg"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\swimwear-section-img.png",
+      "PackagePath": "staticwebassets\\assets\\images\\swimwear-section-img.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\teastmonial.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\teastmonial.jpg"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\testi1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\testi1.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\testi2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\testi2.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\testi3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\testi3.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\testi4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\testi4.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\testi5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\testi5.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\testi6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\testi6.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\time.png",
+      "PackagePath": "staticwebassets\\assets\\images\\time.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\images\\user-demo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\user-demo.png"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\js\\amd.js",
+      "PackagePath": "staticwebassets\\assets\\js\\amd.js"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\js\\bootstrap-popover-x.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap-popover-x.min.js"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\js\\countdown.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\countdown.min.js"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\js\\magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\js\\modernizr-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\modernizr-3.6.0.min.js"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\js\\nice-select.js",
+      "PackagePath": "staticwebassets\\assets\\js\\nice-select.js"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins.js"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\js\\site.js",
+      "PackagePath": "staticwebassets\\assets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\sass\\_abstracts\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_abstracts\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\sass\\_abstracts\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_abstracts\\_variables.scss"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\sass\\_base\\_global.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_base\\_global.scss"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\sass\\_base\\_reset.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_base\\_reset.scss"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\sass\\_base\\_typography.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_base\\_typography.scss"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\sass\\_components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_components\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\sass\\_layout\\_banner.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_layout\\_banner.scss"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\sass\\_layout\\_blog.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_layout\\_blog.scss"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\sass\\_layout\\_footer.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_layout\\_footer.scss"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\sass\\_layout\\_header.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_layout\\_header.scss"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\sass\\_layout\\_inner-pages.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_layout\\_inner-pages.scss"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\sass\\_layout\\_log-reg.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_layout\\_log-reg.scss"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\sass\\_layout\\_section.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_layout\\_section.scss"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\sass\\main.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\main.scss"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\assets\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.LottoPlus.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.LottoPlus.props",
+      "PackagePath": "build\\LottoPlus.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.LottoPlus.props",
+      "PackagePath": "buildMultiTargeting\\LottoPlus.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.LottoPlus.props",
+      "PackagePath": "buildTransitive\\LottoPlus.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j5UaoDQJ9TQuOUYdDHgYWnisvUiiwFXkioeXHHMMlB8WYHH4TAHX6IpjvKhPxj3ndH2jLDnwlBK/wO12TYe+zA==",
+  "dgSpecHash": "QrCESul74eyv2t4BLkr8cszT72pmskFaurAbC3SfuLlqGUytU62SHzoO9yH96ABrWLO2JdA8srdz/1xH0OeQZg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rangsan.chi\\source\\repos\\LottoPlus\\LottoPlus\\LottoPlus.csproj",
+  "projectFilePath": "D:\\DevHome\\Projects\\LottoPlus\\LottoPlus\\LottoPlus.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rangsan.chi\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
   ],
